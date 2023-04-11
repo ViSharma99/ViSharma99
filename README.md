@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ViSharma99. Viswanatha Sharma Chepuri.    
-- 👀 I’m interested in Artificial Intelligence and Data Science...
-- 🌱 I’m currently learning AI and ML...
-- 💞️ I’m looking to collaborate on anything fun...
-- 📫 How to reach me mail at viswanthasc@gmail.com...
+Welcome to my humble abode
 
-<!---
-ViSharma99/ViSharma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Vis GitHub stats](https://github-readme-stats.vercel.app/api?username=ViSharma99&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViSharma99&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
